@@ -1,0 +1,11 @@
+{
+  "name": "RNAnimation",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.34.0",
+    "react-native-animatable": "^0.6.1",
+    "react-native-animate-number": "^0.1.2"
+  }
+}

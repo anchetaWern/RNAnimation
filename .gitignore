@@ -1,0 +1,6 @@
+android/
+ios/
+node_modules/
+.buckconfig
+.flowconfig
+.watchmanconfig
